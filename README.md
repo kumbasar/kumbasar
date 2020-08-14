@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Euler](https://projecteuler.net/profile/vkumbasar.png)
+
 <!--
 **kumbasar/kumbasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
